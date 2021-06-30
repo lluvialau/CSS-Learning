@@ -324,6 +324,7 @@ body {
   background-color: rgba(255, 255, 255, 0.6);
   border-radius: 3px;
   padding: 6rem;
+  padding-left: 9rem;
   font-size: 1.6rem;
   transform: skewX(-12deg); }
   .story__shape {
